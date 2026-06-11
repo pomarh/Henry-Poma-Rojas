@@ -7,7 +7,7 @@ function Footer() {
             <footer className="bg-slate-950 border-t border-slate-800 py-10">
                 <Container>
                     <div className="flex flex-col items-center text-center gap-6">
-                        <h2 className="text-2xl font-bold text-emerald-500">HENRY.Dev</h2>
+                        <h2 className="text-2xl font-bold text-emerald-500">Henry.Dev</h2>
 
                         <p className="max-w-md text-slate-400">Desarrollador Full Stack especializado en React, Node.js y PostgreSQL.</p>
 
