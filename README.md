@@ -1,16 +1,79 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portafolio Personal – Henry Poma Rojas
 
-Currently, two official plugins are available:
+Portafolio web desarrollado con React y Tailwind CSS para mostrar mis proyectos, habilidades y experiencia como desarrollador Frontend y aprendiendo backend para ser Full Stack.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Ver Portafolio
 
-## React Compiler
+https://henry-poma-rojas.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+// Características //
+Diseño Responsive (Mobile First)
+Hero moderno
+Sección Sobre mí
+Tecnologías y habilidades
+Proyectos destacados
+Formulario de contacto funcional
+Integración con EmailJS
+Botón flotante de WhatsApp
+Navegación suave
+Despliegue en Vercel
 
-## Expanding the ESLint configuration
+## Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React
+Tailwind CSS
+JavaScript
+EmailJS
+Vercel
+
+## Instalación
+
+Clonar el proyecto:
+
+git clone https://github.com/pomarh/Henry-Poma-Rojas.git
+
+Entrar al proyecto:
+
+cd Henry-Poma-Rojas
+
+Instalar dependencias:
+
+npm install tailwindcss
+npm install react-icon
+npm install emailjs
+
+Iniciar entorno de desarrollo:
+
+npm run dev
+
+## Variables de entorno
+
+Crear archivo .env
+
+VITE_EMAILJS_SERVICE_ID=
+VITE_EMAILJS_TEMPLATE_ID=
+VITE_EMAILJS_PUBLIC_KEY=
+
+## Capturas
+
+public/screenshots
+img1.jpeg
+img2.jpeg
+img4.jpeg
+img5.jpeg
+
+Agregar imágenes del proyecto aquí.
+
+## Contacto
+
+GitHub:
+https://github.com/pomarh
+
+LinkedIn:
+
+Correo:
+poma.hny@gmail.com
+
+Desarrollado por Henry Poma Rojas | Desarrollador Frontend y Apendiendo Backend para ser Full Stack
